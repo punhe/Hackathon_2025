@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YHSq4TPZ)
 # To-Do App – Preliminary Assignment Submission
 ⚠️ Please complete **all sections marked with the ✍️ icon** — these are required for your submission.
@@ -246,3 +247,6 @@ The vision is to create an AI that doesn't just manage tasks but becomes a true 
 - [✅] Code runs without errors  
 - [✅] All required features implemented (add/edit/delete/complete tasks)  
 - [✅] All ✍️ sections are filled  
+=======
+# Hackathon_2025
+>>>>>>> 01ead63502d5f209eea161b85cf9db93c0b8324e
