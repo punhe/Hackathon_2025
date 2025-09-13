@@ -43,7 +43,7 @@ npm run preview
 ```
 
 ## 🔗 Deployed Web URL or APK file
-✍️ [Paste your link here]
+https://tasktrackwithai.vercel.app/
 
 
 ## 🎥 Demo Video
@@ -53,7 +53,7 @@ npm run preview
 - The video will not appear in search results or on your channel.  
 - Share the link in your README so mentors can access it.  
 
-✍️ [Paste your video link here]
+https://youtu.be/uH15jSCjaIY
 
 
 ## 💻 Project Introduction
